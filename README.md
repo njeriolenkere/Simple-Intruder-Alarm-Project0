@@ -1,5 +1,6 @@
 # Simple-Intruder-Alarm-Project0
 Your home, Your rules -Simple Intruder alarm project using Arduino, ultrasonic sensor, LED, and #chatgpt #tutorial  Tutorial. Here is a basic Intruder alarm project using Arduino with an ultrasonic sensor & LED. Keeping your private things safe from intruders with this very simple Intruder Alarm project, it is easy to keep your accessories safe.
+![Simple_Intruder_Alarm-youtube](https://github.com/user-attachments/assets/aaa2749d-4e9b-44ba-8216-a7b2c421070a)
 
 ## Step 1: Gather all the Necessary Components
 * Arduino Uno.
@@ -68,7 +69,7 @@ void loop() {
 ```
 
 ## Step 4: Upload and Run
-Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/Kb91wtKb6SM)
+Watch step by step tutorial here :point_down: [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/Kb91wtKb6SM)
 
 
 
