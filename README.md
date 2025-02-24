@@ -65,7 +65,7 @@ void loop() {
 ```
 
 ## Step 4: Upload and Run (Use Arduino IDE - www.arduino.cc/en/
-Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)]([https://youtu.be/Kb91wtKb6SM))
+Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/Kb91wtKb6SM)
 
 
 
