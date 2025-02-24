@@ -11,7 +11,7 @@ F. Jumpers wires
 G. LED.
 
 ## Step 2: Connect the Components (use wiring diagrams)
-![Wiring Diagram]()
+![Wiring Diagram](arduino-ultrasonic-sensor-led-scemantics.jpg)
 
 ## Step 3: Write Your Code (use ChatGPT) for coding
 ``` C++
@@ -65,8 +65,7 @@ void loop() {
 ```
 
 ## Step 4: Upload and Run (Use Arduino IDE - www.arduino.cc/en/
-Watch step by step tutorial here
-[![Click to Watch the video](naw_digital-youtube.png)]([link](https://www.youtube.com/watch?v=Kb91wtKb6SM))
+Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)]([https://youtu.be/Kb91wtKb6SM))
 
 
 
