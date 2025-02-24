@@ -11,7 +11,7 @@ F. Jumpers wires
 G. LED.
 
 ## Step 2: Connect the Components (use wiring diagrams)
-![Wiring Diagram] (https://github.com/njeriolenkere/Simple-Intruder-Alarm-Project0/blob/main/arduino-ultrasonic-sensor-led-scemantics.jpg?raw=true)
+![Wiring Diagram]()
 
 ## Step 3: Write Your Code (use ChatGPT) for coding
 ``` C++
@@ -65,8 +65,8 @@ void loop() {
 ```
 
 ## Step 4: Upload and Run (Use Arduino IDE - www.arduino.cc/en/
-Click this link https://www.youtube.com/watch?v=Kb91wtKb6SM or Image to watch step by step tutorial
-[![Watch the video](png)](link)
+Watch step by step tutorial here
+[![Click to Watch the video](naw_digital-youtube.png)]([link](https://www.youtube.com/watch?v=Kb91wtKb6SM))
 
 
 
