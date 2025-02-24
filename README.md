@@ -9,11 +9,14 @@ D. Mini - BreadBoard
 E. 1 kohm Resistor.
 F. Jumpers wires
 G. LED.
+### Software
+H. Arduino IDE (download IDE from www.arduino.cc/en/) 
+I. ChatGPT (https://chatgpt.com/)
 
 ## Step 2: Connect the Components (use wiring diagrams)
 ![Wiring Diagram](arduino-ultrasonic-sensor-led-scemantics.jpg)
 
-## Step 3: Write Your Code (use ChatGPT) for coding
+## Step 3: Write Your Code Using ChatGPT
 ``` C++
 //#create a Simple Project With the Ultrasonic Sensor (HC-SR04), LED, Arduino(ChatGPT prompt
 //#(echo A0, trig A1), led pin 4, if distance is less than 100 cm, the led blinks 1 sec per blink, if distance is more than 100cm the led on breadboard shuts off
@@ -64,7 +67,7 @@ void loop() {
 }
 ```
 
-## Step 4: Upload and Run (Use Arduino IDE - www.arduino.cc/en/
+## Step 4: Upload and Run
 Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/Kb91wtKb6SM)
 
 
