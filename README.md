@@ -4,7 +4,7 @@ Your home, Your rules -Simple Intruder alarm project using Arduino, ultrasonic s
 ## Step 1: Gather all the Necessary Components
 * Arduino Uno.
 * Sensor shield (optional)
-* Ultrasonic Sensor (HC-SR04) - (An ultrasonic sensor measures the distance of an object by ...emitting ultrasonic sound waves. The reflected waves from the object are received by the ...sensor and are converted to corresponding electrical signals.)
+* Ultrasonic Sensor (HC-SR04) - (An ultrasonic sensor measures the distance of an object by ...emitting ultrasonic sound waves. The reflected waves from the object are received by the sensor and are converted to corresponding electrical signals.)
 * Mini - BreadBoard
 * 1 kohm Resistor.
 * Jumpers wires
