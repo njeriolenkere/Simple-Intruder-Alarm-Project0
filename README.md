@@ -11,7 +11,7 @@ Your home, Your rules -Simple Intruder alarm project using Arduino, ultrasonic s
 * Jumpers wires
 * LED.
 ### Software
-* Arduino IDE (download IDE from www.arduino.cc/en/) 
+* Arduino IDE (download IDE from https://www.arduino.cc/en/software) 
 * ChatGPT (https://chatgpt.com/)
 
 ## Step 2: Connect the Components (use wiring diagrams)
